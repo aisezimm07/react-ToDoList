@@ -1,11 +1,8 @@
-import Header from "./Header";
+import Main from "./Main";
 function App(){
     return (
       <>
-      <Header/>
-      <h1>hello</h1>
-      <p>world</p>
-      
+      <Main/>
       </>
   
     )
