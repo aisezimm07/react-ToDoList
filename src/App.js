@@ -23,123 +23,15 @@ function App(){
         </div>
 
         <div className='border-4'>
-
-
-          <div><p className='p-1'><strike>Learn React JS basics</strike></p></div>
-
+          <p className='p-1'>Learn React JS basics</p>
           <div className='div-10'>
-
-            <div>
-              <img className='img-2 img-22' src={img2} />
-            </div>
-
-            <div>
+              <input type="checkbox" />
               <img className='img-2 image' src={img3} />
-            </div>
-
-            <div>
               <img className='img-2' src={img4} />
-            </div>
-
-          </div>
-
-
-        </div>
-
-
-        <div className='border-5'>
-
-
-          <div><p className='text'>Practice React JS</p></div>
-
-          <div className='div-10'>
-
-            <div>
-              <img className='img-2' src={img5} />
-            </div>
-
-            <div>
-              <img className='img-2 image' src={img3} />
-            </div>
-
-            <div>
-              <img className='img-2' src={img4} />
-            </div>
-
-          </div>
-
-
-        </div>
-
-
-        <div className='border-6'>
-
-
-          <div><p className='text'>Learn Redux</p></div>
-
-          <div className='div-10'>
-
-            <div>
-              <img className='img-2' src={img5} />
-            </div>
-
-            <div>
-              <img className='img-2 image' src={img3} />
-            </div>
-
-            <div>
-              <img className='img-2' src={img4} />
-            </div>
-
-          </div>
-
-
-        </div>
-
-        <div className='border-7'>
-
-
-          <div><p className='text'>Code portfolio in React</p></div>
-
-          <div className='div-10'>
-
-            <div>
-              <img className='img-2' src={img5} />
-            </div>
-
-            <div>
-              <img className='img-2 image' src={img3} />
-            </div>
-
-            <div>
-              <img className='img-2' src={img4} />
-            </div>
-
           </div>
         </div>
-        <div className='border-8'>
 
 
-          <div><p className='text'>Learn React Native</p></div>
-
-          <div className='div-10'>
-
-            <div>
-              <img className='img-2' src={img5} />
-            </div>
-
-            <div>
-              <img className='img-2 image' src={img3} />
-            </div>
-
-            <div>
-              <img className='img-2' src={img4} />
-            </div>
-
-          </div>
-
-
-        </div>
         <div className='div-100'>
 
           <div >
